@@ -1,7 +1,4 @@
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20KimRiun's%20World&reversal=false&animation=fadeIn&fontSize=50)
-
 
 ### 모두의 삶을 더 즐겁게 만드는 개발자
 
@@ -13,7 +10,6 @@
 - 사용자가 더 편리하게 느낄 UI/UX 디자인 및 컴포넌트 개발
 - 코드 생산성을 높이는 방법 (클린코드, 디자인 패턴 등)
 - 협업 시너지를 높이는 방법 (코드리뷰, 그라운드 룰 등)
-
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -40,14 +36,6 @@
 ![Mattermost](https://img.shields.io/badge/-Mattermost-000?&logo=Mattermost)
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
 
-### Github Stats
-<a href="https://github.com/KimRiun/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KimRiun&rank_icon=github" />
-</a>
-<a href="https://github.com/KimRiun/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimRiun&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 ### Experiences
 
 | Date | Name | Learning |
@@ -57,3 +45,15 @@
 | 2022.07 ~ 2022.08 | 대학생 기업 연계 실무 인턴십 | Backend
 | 2019.03 ~ 2023.02 | SMWU IT공학 심화전공 | Undergraduate IT Education
 | 2018.03 ~ 2019.02 | SMWU 기초공학부(전학기 장학생) | Basic Engineering
+
+### Github Stats
+<a href="https://github.com/KimRiun/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KimRiun&rank_icon=github" />
+</a>
+<a href="https://github.com/KimRiun/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimRiun&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+---
+contact [blog](https://velog.io/@sue1199842/posts)
+
