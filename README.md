@@ -55,10 +55,7 @@
 </a>
 
 ### Favorite Project
-
-<a href="https://github.com/ToriStory/ToriStory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KimRiun&repo=ToriStory" />
-</a>
+:fallen_leaf: [ToriStory](https://github.com/ToriStory/ToriStory)
 
 ---
 contact [blog](https://velog.io/@sue1199842/posts)
