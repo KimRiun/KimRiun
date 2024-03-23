@@ -9,7 +9,7 @@
 ### Interests
 - 사용자가 더 편리하게 느낄 UI/UX 디자인 및 컴포넌트 개발
 - 코드 생산성과 협업 시너지를 높이는 방법 <!-- 클린코드, 디자인 패턴, 코드리뷰, 그라운드 룰 등 -->
-- storybook, jest, android <!-- 컴포넌트 재사용성, js 테스팅 라이브러리, 다른 언어를 활용한 프론트개발  등 -->
+- 더 알고 싶은 기술: storybook, jest, android <!-- 컴포넌트 재사용성, js 테스팅 라이브러리, 다른 언어를 활용한 프론트개발  등 -->
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
