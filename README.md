@@ -36,6 +36,11 @@
 ![Mattermost](https://img.shields.io/badge/-Mattermost-000?&logo=Mattermost)
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
 
+### Favorite Project
+<a href="https://github.com/ToriStory/ToriStory">
+  <img height=50 align="center" src="https://avatars.githubusercontent.com/u/152249618?s=48&v=4" />
+</a>
+
 ### Experiences
 
 | Date | Name | Learning |
@@ -54,9 +59,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimRiun&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-### Favorite Project
-:fallen_leaf: [ToriStory](https://github.com/ToriStory/ToriStory)
-
 ---
-contact [blog](https://velog.io/@sue1199842/posts)
+Contact  [blog](https://velog.io/@sue1199842/posts)
 
