@@ -11,13 +11,13 @@
 - 코드 생산성과 협업 시너지를 높이는 방법 <!-- 클린코드, 디자인 패턴, 코드리뷰, 그라운드 룰 등 -->
 - 더 알고 싶은 기술: storybook, jest, android <!-- 컴포넌트 재사용성, js 테스팅 라이브러리, 다른 언어를 활용한 프론트개발  등 -->
 
-### Languages
+### Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Tools
+
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot)
@@ -27,7 +27,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 
-### Cooperation
+
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)
