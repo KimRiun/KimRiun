@@ -54,12 +54,20 @@
 
 ### Github Stats
 <a href="https://github.com/KimRiun/github-readme-stats">
-  <img style="border-radius: 7px" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KimRiun&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KimRiun&rank_icon=github" />
 </a>
 <a href="https://github.com/KimRiun/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimRiun&layout=compact&langs_count=8&card_width=320" />
 </a>
 
----
-Contact  [blog](https://velog.io/@sue1199842/posts)
+### Contact 
+<a href="https://velog.io/@sue1199842/posts">
+  <img height=30 align="center" src="https://images.velog.io/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png" />
+  blog
+</a>
+&nbsp;&nbsp;
+<a href="https://poised-mandible-7e9.notion.site/FE-Feeling-Engineer-958abc25b8cb484c955131ac23ee7ff1">
+  <img height=30 align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
+  portfolio
+</a>
 
