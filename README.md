@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20KimRiun's%20World&reversal=false&animation=fadeIn&fontSize=50)
 
-### 모두의 삶을 더 즐겁게 만드는 개발자
+### 😁모두의 삶을 더 즐겁게 만드는 개발자
 
 **'즐거움'** 은 제가 어떤 일을 할 때 몰입하게 만들고, 그 과정 자체에서 행복을 느끼게 만드는 힘입니다.
 
