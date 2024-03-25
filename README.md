@@ -70,4 +70,3 @@
   <img height=30 align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
   portfolio
 </a>
-
