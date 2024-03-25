@@ -8,13 +8,13 @@
 
 <br>
 
-### 📌 Interests
+### 📌 관심사
 - 사용자가 더 편리하게 느낄 UI/UX 디자인 및 컴포넌트 개발
 - 코드 생산성과 협업 시너지를 높이는 방법 <!-- 클린코드, 디자인 패턴, 코드리뷰, 그라운드 룰 등 -->
 - 더 알고 싶은 기술: storybook, jest, android <!-- 컴포넌트 재사용성, js 테스팅 라이브러리, 다른 언어를 활용한 프론트개발  등 -->
 <br>
 
-### 💻 Skills
+### 💻 사용 기술
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -41,7 +41,7 @@
 
 <br>
 
-### 💛 Favorite Project
+### 💛 가장 좋아하는 프로젝트
 <div>
   <a href="https://github.com/ToriStory/ToriStory">
   <img height=50 align="center" src="./assets/toristory_logo.png" />
@@ -54,9 +54,9 @@
 <br>
 
 
-### 📚 Experiences
+### 📚 경험
 
-| Date | Name | Learning |
+| 기간 | 활동명 | 내용 |
 |--|--|--|
 | 2023.03 ~ NOW | 신한투자증권 프로 디지털 아카데미 4기 | Frontend, Backend, Infra
 | 2023.01 ~ 2023.12 | 삼성 청년 SW 아카데미(SSAFY) 9기 | Frontend, Backend, Infra
@@ -66,7 +66,11 @@
 
 <br>
 
-### ☎️ Contact 
+### ☎ 연락 방법 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimriun27@gmail.com)](mailto:kimriun27@gmail.com)
+
+
+### 🏓 더 많은 활동 
 <a href="https://velog.io/@sue1199842/posts">
   <img height=30 align="center" src="https://images.velog.io/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png" />
   blog
@@ -77,14 +81,15 @@
   portfolio
 </a>
 
-
+<br>
 <br>
 
-
-### 💡 Github Stats
+<div>
 <a href="https://github.com/KimRiun/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KimRiun&rank_icon=github" />
 </a>
-<a href="https://github.com/KimRiun/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimRiun&layout=compact&langs_count=8&card_width=320" />
-</a>
+</div>
+
+
+
+
