@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20KimRiun's%20World&reversal=false&animation=fadeIn&fontSize=50)
+<div align="center">
+  <img src="https://github.com/KimRiun/KimRiun/assets/56223389/3e102c4c-1cc1-4083-9d6c-280371b678b9" width="500" height="500"/>
+</div>
 
 ### 😁모두의 삶을 더 즐겁게 만드는 개발자
 
