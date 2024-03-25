@@ -6,10 +6,13 @@
 
 그래서 저는 스스로도 만들 때 즐겁고, 다른 사람에게도 즐거움을 줄 수 있는 서비스를 만들고 싶습니다.
 
+<br>
+
 ### 📌 Interests
 - 사용자가 더 편리하게 느낄 UI/UX 디자인 및 컴포넌트 개발
 - 코드 생산성과 협업 시너지를 높이는 방법 <!-- 클린코드, 디자인 패턴, 코드리뷰, 그라운드 룰 등 -->
 - 더 알고 싶은 기술: storybook, jest, android <!-- 컴포넌트 재사용성, js 테스팅 라이브러리, 다른 언어를 활용한 프론트개발  등 -->
+<br>
 
 ### 💻 Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -36,10 +39,19 @@
 ![Mattermost](https://img.shields.io/badge/-Mattermost-000?&logo=Mattermost)
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
 
+<br>
+
 ### 💛 Favorite Project
-<a href="https://github.com/ToriStory/ToriStory">
+<div>
+  <a href="https://github.com/ToriStory/ToriStory">
   <img height=50 align="center" src="./assets/toristory_logo.png" />
-</a> 
+    Toristory
+  </a>
+</div>
+
+<div>소소한 도전 과제 달성을 통해 성취감 및 자존감을 높이는 서비스</div>
+
+<br>
 
 
 ### 📚 Experiences
@@ -52,13 +64,7 @@
 | 2019.03 ~ 2023.02 | SMWU IT공학 심화전공 | Undergraduate IT Education
 | 2018.03 ~ 2019.02 | SMWU 기초공학부(전학기 장학생) | Basic Engineering
 
-### 💡 Github Stats
-<a href="https://github.com/KimRiun/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KimRiun&rank_icon=github" />
-</a>
-<a href="https://github.com/KimRiun/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimRiun&layout=compact&langs_count=8&card_width=320" />
-</a>
+<br>
 
 ### ☎️ Contact 
 <a href="https://velog.io/@sue1199842/posts">
@@ -69,4 +75,16 @@
 <a href="https://poised-mandible-7e9.notion.site/FE-Feeling-Engineer-958abc25b8cb484c955131ac23ee7ff1">
   <img height=30 align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
   portfolio
+</a>
+
+
+<br>
+
+
+### 💡 Github Stats
+<a href="https://github.com/KimRiun/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KimRiun&rank_icon=github" />
+</a>
+<a href="https://github.com/KimRiun/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimRiun&layout=compact&langs_count=8&card_width=320" />
 </a>
