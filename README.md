@@ -6,12 +6,12 @@
 
 그래서 저는 스스로도 만들 때 즐겁고, 다른 사람에게도 즐거움을 줄 수 있는 서비스를 만들고 싶습니다.
 
-### Interests
+### 📌 Interests
 - 사용자가 더 편리하게 느낄 UI/UX 디자인 및 컴포넌트 개발
 - 코드 생산성과 협업 시너지를 높이는 방법 <!-- 클린코드, 디자인 패턴, 코드리뷰, 그라운드 룰 등 -->
 - 더 알고 싶은 기술: storybook, jest, android <!-- 컴포넌트 재사용성, js 테스팅 라이브러리, 다른 언어를 활용한 프론트개발  등 -->
 
-### Skills
+### 💻 Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -36,13 +36,13 @@
 ![Mattermost](https://img.shields.io/badge/-Mattermost-000?&logo=Mattermost)
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
 
-### Favorite Project
+### 💛 Favorite Project
 <a href="https://github.com/ToriStory/ToriStory">
   <img height=50 align="center" src="./assets/toristory_logo.png" />
 </a> 
 
 
-### Experiences
+### 📚 Experiences
 
 | Date | Name | Learning |
 |--|--|--|
@@ -52,7 +52,7 @@
 | 2019.03 ~ 2023.02 | SMWU IT공학 심화전공 | Undergraduate IT Education
 | 2018.03 ~ 2019.02 | SMWU 기초공학부(전학기 장학생) | Basic Engineering
 
-### Github Stats
+### 💡 Github Stats
 <a href="https://github.com/KimRiun/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KimRiun&rank_icon=github" />
 </a>
@@ -60,7 +60,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimRiun&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-### Contact 
+### ☎️ Contact 
 <a href="https://velog.io/@sue1199842/posts">
   <img height=30 align="center" src="https://images.velog.io/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png" />
   blog
