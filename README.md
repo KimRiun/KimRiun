@@ -38,7 +38,7 @@
 
 ### Favorite Project
 <a href="https://github.com/ToriStory/ToriStory">
-  <img height=50 align="center" src="/assets/toristory_logo.png" />
+  <img height=50 align="center" src="./assets/toristory_logo.png" />
 </a> 
 
 
