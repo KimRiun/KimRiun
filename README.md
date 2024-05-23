@@ -63,8 +63,8 @@
 | 2023.03 ~ NOW | 신한투자증권 프로 디지털 아카데미 4기 | Frontend, Backend, Infra
 | 2023.01 ~ 2023.12 | 삼성 청년 SW 아카데미(SSAFY) 9기 | Frontend, Backend, Infra
 | 2022.07 ~ 2022.08 | 대학생 기업 연계 실무 인턴십 | Backend
-| 2019.03 ~ 2023.02 | SMWU IT공학 심화전공 | Undergraduate IT Education
-| 2018.03 ~ 2019.02 | SMWU 기초공학부(전학기 장학생) | Basic Engineering
+| 2019.03 ~ 2023.02 | IT공학 심화전공 | Undergraduate IT Education
+| 2018.03 ~ 2019.02 | 기초공학부(전학기 장학생) | Basic Engineering
 
 <br>
 
