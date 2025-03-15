@@ -60,7 +60,8 @@
 
 | 기간 | 활동명 | 내용 |
 |--|--|--|
-| 2023.03 ~ NOW | 신한투자증권 프로 디지털 아카데미 4기 | Frontend, Backend, Infra
+| 2024.10 ~ 2024.10 | 신한투자증권 인턴 | Frontend, Backend,
+| 2024.03 ~ 2024.09 | 신한투자증권 프로 디지털 아카데미 4기 | Frontend, Backend, Infra
 | 2023.01 ~ 2023.12 | 삼성 청년 SW 아카데미(SSAFY) 9기 | Frontend, Backend, Infra
 | 2022.07 ~ 2022.08 | 대학생 기업 연계 실무 인턴십 | Backend
 | 2019.03 ~ 2023.02 | IT 전공 | Undergraduate IT Education
