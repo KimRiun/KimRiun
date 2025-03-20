@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/KimRiun/KimRiun/assets/56223389/3e102c4c-1cc1-4083-9d6c-280371b678b9" width="500" height="500"/>
-</div>
-
 ### 😁모두의 삶을 더 즐겁게 만드는 개발자
 
 **'즐거움'** 은 제가 어떤 일을 할 때 몰입하게 만들고, 그 과정 자체에서 행복을 느끼게 만드는 힘입니다.
@@ -79,10 +75,6 @@
   blog
 </a>
 &nbsp;&nbsp;
-<a href="https://poised-mandible-7e9.notion.site/FE-Feeling-Engineer-958abc25b8cb484c955131ac23ee7ff1">
-  <img height=30 align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
-  portfolio
-</a>
 
 <br>
 <br>
