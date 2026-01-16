@@ -58,6 +58,7 @@
 
 | 기간 | 활동명 | 내용 |
 |--|--|--|
+| 2025.05 ~ NOW | (주)Thingspire 사원 | Frontend, Backend, AI
 | 2024.10 ~ 2024.10 | 신한투자증권 인턴 | Frontend, Backend,
 | 2024.03 ~ 2024.09 | 신한투자증권 프로 디지털 아카데미 4기 | Frontend, Backend, Infra
 | 2023.01 ~ 2023.12 | 삼성 청년 SW 아카데미(SSAFY) 9기 | Frontend, Backend, Infra
@@ -77,15 +78,7 @@
   blog
 </a>
 &nbsp;&nbsp;
-
-<br>
-<br>
-
-<div>
-<a href="https://github.com/KimRiun/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KimRiun&rank_icon=github" />
-</a>
-</div>
+>
 
 
 
